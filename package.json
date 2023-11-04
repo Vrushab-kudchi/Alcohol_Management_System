@@ -1,0 +1,16 @@
+{
+  "name": "alcohol_management",
+  "version": "1.0.0",
+  "description": "Allows You To Track You Shops",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vrushab Kudchi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
