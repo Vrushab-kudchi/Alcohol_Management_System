@@ -168,7 +168,6 @@ router.post('/category', (req, res) => {
                   } else if( category_name === "beer" && ml === 500)
                   {
                       total_bottles+= cases * 24;
-                  
                   }
                   if(category_name === "wisky" || category_name === "rum" || category_name === "gin" || category_name === "vodka")
                   {
